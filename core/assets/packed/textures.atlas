@@ -1,0 +1,675 @@
+
+textures.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+entity/blackhole_bg
+  rotate: false
+  xy: 231, 108
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+entity/blackhole_fg
+  rotate: false
+  xy: 209, 57
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+entity/bullet_enemy
+  rotate: false
+  xy: 151, 69
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+entity/bullet_enemy_small
+  rotate: false
+  xy: 68, 75
+  size: 4, 1
+  orig: 4, 1
+  offset: 0, 0
+  index: -1
+entity/bullet_player
+  rotate: false
+  xy: 149, 41
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+entity/bullet_player_small
+  rotate: false
+  xy: 133, 25
+  size: 4, 1
+  orig: 4, 1
+  offset: 0, 0
+  index: -1
+entity/casing_bullet
+  rotate: false
+  xy: 251, 125
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+entity/casing_shell
+  rotate: false
+  xy: 55, 3
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+entity/chest_closed
+  rotate: false
+  xy: 231, 97
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+entity/chest_closed_health
+  rotate: false
+  xy: 233, 77
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+entity/chest_open
+  rotate: false
+  xy: 231, 86
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+entity/chest_open_health
+  rotate: false
+  xy: 133, 41
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+entity/enemy_drone_green
+  rotate: false
+  xy: 32, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+entity/enemy_drone_red
+  rotate: false
+  xy: 40, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+entity/enemy_hunter_spritesheet
+  rotate: false
+  xy: 85, 74
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+entity/enemy_soldier_spritesheet
+  rotate: false
+  xy: 68, 24
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+entity/enemy_watcher_spritesheet
+  rotate: false
+  xy: 159, 84
+  size: 70, 42
+  orig: 70, 42
+  offset: 0, 0
+  index: -1
+entity/enemy_worker
+  rotate: false
+  xy: 247, 77
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+entity/explosion_big
+  rotate: false
+  xy: 68, 11
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+entity/explosion_small
+  rotate: false
+  xy: 2, 2
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+entity/fruit_blueberry
+  rotate: false
+  xy: 67, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+entity/fruit_blueberry_christmas
+  rotate: false
+  xy: 67, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+entity/fruit_blueberry_xmas
+  rotate: false
+  xy: 67, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+entity/fruit_lemon
+  rotate: false
+  xy: 233, 55
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+entity/fruit_lemon_xmas
+  rotate: false
+  xy: 240, 55
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+entity/fruit_lime
+  rotate: false
+  xy: 145, 30
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+entity/fruit_lime_xmas
+  rotate: false
+  xy: 152, 30
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+entity/fruit_melon
+  rotate: false
+  xy: 166, 52
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+entity/fruit_melon_xmas
+  rotate: false
+  xy: 247, 58
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+entity/fruit_orange
+  rotate: false
+  xy: 48, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+entity/fruit_orange_xmas
+  rotate: false
+  xy: 91, 3
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+entity/fruit_raspberry
+  rotate: false
+  xy: 75, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+entity/fruit_raspberry_xmas
+  rotate: false
+  xy: 98, 3
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+entity/fruit_strawberry
+  rotate: false
+  xy: 83, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+entity/fruit_strawberry_xmas
+  rotate: false
+  xy: 105, 3
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+entity/hunter_walk
+  rotate: false
+  xy: 159, 69
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+entity/interact_bubble
+  rotate: false
+  xy: 233, 66
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+entity/level_sprinkler
+  rotate: false
+  xy: 247, 52
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+entity/level_tree
+  rotate: false
+  xy: 133, 52
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+entity/level_valve
+  rotate: false
+  xy: 245, 66
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+entity/level_vine
+  rotate: false
+  xy: 247, 90
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+entity/player_heads
+  rotate: false
+  xy: 151, 58
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+entity/player_heads_christmas
+  rotate: false
+  xy: 180, 58
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+entity/player_legs
+  rotate: false
+  xy: 2, 78
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+entity/shape_circle
+  rotate: false
+  xy: 2, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+entity/shape_rectangle
+  rotate: false
+  xy: 177, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+entity/terminal_read
+  rotate: false
+  xy: 133, 28
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+entity/terminal_unread
+  rotate: false
+  xy: 221, 56
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+entity/weapon_pistol
+  rotate: false
+  xy: 55, 6
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+entity/weapon_pistol_enemy
+  rotate: false
+  xy: 164, 46
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+entity/weapon_rifle
+  rotate: false
+  xy: 151, 52
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+entity/weapon_shotgun
+  rotate: false
+  xy: 149, 46
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+
+textures2.png
+size: 32,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hud/bullet1
+  rotate: false
+  xy: 29, 11
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+hud/bullet1_empty
+  rotate: false
+  xy: 10, 2
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+hud/bullet2
+  rotate: false
+  xy: 29, 6
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+hud/bullet2_empty
+  rotate: false
+  xy: 13, 2
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+hud/heart_empty
+  rotate: false
+  xy: 2, 7
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hud/heart_full
+  rotate: false
+  xy: 11, 7
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hud/heart_half
+  rotate: false
+  xy: 20, 7
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hud/shotgun_shell
+  rotate: false
+  xy: 2, 2
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+hud/shotgun_shell_empty
+  rotate: false
+  xy: 6, 2
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+
+textures3.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ui/arrow_left
+  rotate: false
+  xy: 311, 20
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+ui/button_large
+  rotate: false
+  xy: 2, 2
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+ui/button_large_outline
+  rotate: false
+  xy: 2, 14
+  size: 64, 14
+  orig: 64, 14
+  offset: 0, 0
+  index: -1
+ui/button_small
+  rotate: false
+  xy: 287, 14
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/button_small_outline
+  rotate: false
+  xy: 231, 10
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ui/cursor
+  rotate: false
+  xy: 251, 12
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui/cursor_pointer
+  rotate: false
+  xy: 251, 12
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui/cursor_crosshair
+  rotate: false
+  xy: 269, 12
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui/lock
+  rotate: false
+  xy: 317, 22
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+ui/minus
+  rotate: false
+  xy: 330, 25
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+ui/plus
+  rotate: false
+  xy: 323, 23
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ui/title_green
+  rotate: false
+  xy: 123, 9
+  size: 52, 19
+  orig: 52, 19
+  offset: 0, 0
+  index: -1
+ui/title_purple
+  rotate: false
+  xy: 68, 9
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+ui/title_red
+  rotate: false
+  xy: 177, 9
+  size: 52, 19
+  orig: 52, 19
+  offset: 0, 0
+  index: -1
+ui/volume_bar
+  rotate: false
+  xy: 303, 15
+  size: 2, 13
+  orig: 2, 13
+  offset: 0, 0
+  index: -1
+ui/volume_bar_dark
+  rotate: false
+  xy: 307, 15
+  size: 2, 13
+  orig: 2, 13
+  offset: 0, 0
+  index: -1
+
+textures4.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+world/background
+  rotate: false
+  xy: 2, 102
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+world/tiles_bushes
+  rotate: false
+  xy: 204, 59
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+world/tiles_bushes_bleed
+  rotate: false
+  xy: 204, 185
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+world/tiles_grass
+  rotate: false
+  xy: 279, 59
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+world/tiles_grass_bleed
+  rotate: false
+  xy: 94, 33
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+world/tiles_green
+  rotate: false
+  xy: 354, 59
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+world/tiles_green_bleed
+  rotate: false
+  xy: 204, 116
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+world/tiles_pipes
+  rotate: false
+  xy: 429, 59
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+world/tiles_pipes_bleed
+  rotate: false
+  xy: 295, 185
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+world/tiles_purple
+  rotate: false
+  xy: 185, 2
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+world/tiles_purple_bleed
+  rotate: false
+  xy: 295, 116
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+world/tiles_snow
+  rotate: false
+  xy: 260, 2
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+world/tiles_snow_2_bleed
+  rotate: false
+  xy: 386, 185
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+world/tiles_snow_bleed
+  rotate: false
+  xy: 386, 116
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+world/tiles_thorns
+  rotate: false
+  xy: 335, 2
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+world/tiles_thorns_bleed
+  rotate: false
+  xy: 2, 33
+  size: 90, 67
+  orig: 90, 67
+  offset: 0, 0
+  index: -1
